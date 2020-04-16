@@ -1,11 +1,3 @@
-# L02 CART
-
-Download the repository as a zip folder and begin an R project for this lab. The zip folder will contain instructions (repeated below) and a template to get an Rmd file started.
-
-## Overview
-
-The main goal of this lab is to continue practicing the application of tree-based methods (i.e., classification and regression trees).
-
 ## Datasets
 
 We have split the `wildfires.csv` dataset into a training dataset (`wildfires_train.csv`) and test dataset (`wildfires_test.csv`). They are contained in the **data** subdirectory along with a codebook.  
